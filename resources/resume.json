@@ -1,0 +1,157 @@
+{
+  "basics": {
+    "name": "Shivan Naidoo",
+    "label": "Software Develolper",
+    "picture": "",
+    "email": "shivan.naidoo@gmail.com",
+    "phone": "061 400 9944",
+    "website": ["http://www.linkedin.com/in/shivan-naidoo-2952ab2", "https://shivann.github.io/personal/"],
+    "summary": "Fifteen years of commercial software development experience. Specialist in Java server side technologies. Solution Architecture. Consultancy, mentoring and training. Team leading experience. SCRUM/Agile methodologies. Four years international work experience in Mountain View, California, United States",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "Cape Town",
+      "countryCode": "South Africa",
+      "region": "Western Cape"
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "company": "Interfront (SARS)",
+      "position": "Senior Software Developer",
+      "website": "http://www.interfront.co.za/",
+      "startDate": "2016-08-01",
+      "endDate": "Present",
+      "summary": "Case Management workflow implementation using Spring 4, Microservices, BPM, Angular",
+      "highlights": []
+    },
+    {
+      "company": "ViaMedia",
+      "position": "Senior DEveloper",
+      "website": "http://www.viamedia.co.za/",
+      "startDate": "2016-03-01",
+      "endDate": "2016-08-01",
+      "summary": "ViaMedia is a cellular solutions and innovations service provider seeking to enable small, medium and large companies in embracing the mobile revolution and developing strategies that will take their products & services into the mobile environment. Microservices platform architecture and rollout (spring boot) Devops R&D",
+      "highlights": []
+    },
+    {
+      "company": "Helios",
+      "position": "IT Specialist",
+      "website": "http://heliosits.com/",
+      "startDate": "2013-06-01",
+      "endDate": "2016-03-01",
+      "summary": "Healthcare administration domain - Middleware Integration Specialist -  Wildfly, GIT, MyBatis, Oracle, Apache CXF, Webservices, EJB3.0, Spring, Maven",
+      "highlights": []
+    },
+    {
+      "company": "Metropolitan Health Group (MMI Holdings)",
+      "position": "Technical Lead Software Infrastructure",
+      "website": "http://www.mhg.co.za/",
+      "startDate": "2010-03-01",
+      "endDate": "2013-06-01",
+      "summary": "Healthcare administration domain - Infrastructure Services SOA R&D – Analysis of existing infrastructure services – re-architecture following SOA design principles – Jboss to Websphere service migration - Technologies: Java, J2EE, JBoss, Websphere, SOA, Sybase, Hibernate, JPA, ANT, SVN, Apache/Tomcat, JUnit, iText, Aspose, Apache Camel, Apache ServiceMix, Apache James / Mailets, Apache POI, Web Services, SCRUM, Agile",
+      "highlights": [
+        "PDF Converter Service built on opensource technologies to replace 2 million rand proprietary solution "
+      ]
+    },
+    {
+      "company": "VeriSign",
+      "position": "Software Engineer (T4)",
+      "website": "https://www.verisign.com/",
+      "startDate": "2006-10-01",
+      "endDate": "2010-01-01",
+      "summary": "Verisign ensures the security, stability and resiliency of key internet infrastructure, including .com and .net top-level domains, and provides protection for websites and enterprises around the world. VeriSign Automated Authentication Systems migration – migration of automated cert issuance services from Weblogic to  JBoss platform – reverse engineer and re-design of legacy workflow management and voice authentication systems  Thawte Retail Channel systems migration -  reimplementation of legacy Thawte retail channel software   EcasConnector – Web service based partner integration API  Yahoo Shopping – VeriSign PKI site seal integration with Yahoo shopping portal  VeriSign Certificate Center / RatePoint integration – API level integration to provision RatePoint's merchant reputation services via VeriSign's certificate management console    VeriSign Certificate Center Offermatica Integration – integration of Offermatica (3'rd party) marketing campaign management software  VeriSign Certificate Center – Digital Certificate life cycle management portal for the VeriSign brand.",
+      "highlights": [
+        "Implementation and roll out of Internationalised Domain Names (https://www.verisign.com/en_IN/channel-resources/domain-registry-products/idn/index.xhtml)"
+      ]
+    },
+    {
+      "company": "Thawte Consulting",
+      "position": "Senior Software Engineer",
+      "website": "https://www.thawte.com/",
+      "startDate": "2003-04-01",
+      "endDate": "2006-09-01",
+      "summary": "Thawte is a leading global Certification Authority. Technologies: Java, EJB2.0, Spring, JBoss, MySQL, Hibernate, XDoclet, Struts, ANT, Apache/Tomcat, CVS, PKI, Python, XML RPC, JUnit, Cactus, XP, Scrum, Agile. Thawte Referrer Channel (www.trefer.com) Thawte Reseller Channel (www.thawte.com/digital-certificate-resellers/reseller-partners) Low Auth SSL Product – SSL123 (www.thawte.com) t-Refer Commission Engine Optimization Thawte Voucher System (Lead) Thawte/VeriSign Retail Channel Integration.  Thawte/VeriSign Common API (Lead)",
+      "highlights": []
+    },
+    {
+      "company": "iTouch Labs",
+      "position": "Java Developer",
+      "website": "https://itouch.co.za",
+      "startDate": "2003-04-01",
+      "endDate": "2006-09-01",
+      "summary": "Thawte is a leading global Certification Authority. Technologies: Java, EJB2.0, Spring, JBoss, MySQL, Hibernate, XDoclet, Struts, ANT, Apache/Tomcat, CVS, PKI, Python, XML RPC, JUnit, Cactus, XP, Scrum, Agile. Thawte Referrer Channel (www.trefer.com) Thawte Reseller Channel (www.thawte.com/digital-certificate-resellers/reseller-partners) Low Auth SSL Product – SSL123 (www.thawte.com) t-Refer Commission Engine Optimization Thawte Voucher System (Lead) Thawte/VeriSign Retail Channel Integration.  Thawte/VeriSign Common API (Lead)",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "University of Port Elizabeth / NMMU",
+      "area": "Computer Science",
+      "studyType": "Bachelor",
+      "startDate": "1994",
+      "endDate": "1999",
+      "gpa": "",
+      "courses": []
+    },
+    {
+      "institution": "University of Stellenbosch",
+      "area": "MPhil Sustainable Development Planning and Management",
+      "studyType": "Masters",
+      "startDate": "2006",
+      "endDate": "",
+      "gpa": "",
+      "courses": []
+    },
+    {
+      "institution": "Coursera",
+      "area": "Functional Programming Principles in Scala",
+      "studyType": "Certificate",
+      "startDate": "2016",
+      "endDate": "2016",
+      "gpa": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Web Development",
+      "level": "Master",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "Javascript"
+      ]
+    },
+    {
+      "name": "Compression",
+      "level": "Master",
+      "keywords": [
+        "Mpeg",
+        "MP4",
+        "GIF"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "Afrikaans",
+      "fluency": "Second Language"
+    }
+  ],
+  "interests": [],
+  "references": [
+    {
+      "name": "Erlich Bachman",
+      "reference": "It is my pleasure to recommend Richard, his performance working as a consultant for Main St. Company proved that he will be a valuable addition to any company."
+    }
+  ]
+}
