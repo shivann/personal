@@ -79,9 +79,18 @@
       "company": "iTouch Labs",
       "position": "Java Developer",
       "website": "https://itouch.co.za",
-      "startDate": "2003-04-01",
-      "endDate": "2006-09-01",
-      "summary": "Thawte is a leading global Certification Authority. Technologies: Java, EJB2.0, Spring, JBoss, MySQL, Hibernate, XDoclet, Struts, ANT, Apache/Tomcat, CVS, PKI, Python, XML RPC, JUnit, Cactus, XP, Scrum, Agile. Thawte Referrer Channel (www.trefer.com) Thawte Reseller Channel (www.thawte.com/digital-certificate-resellers/reseller-partners) Low Auth SSL Product – SSL123 (www.thawte.com) t-Refer Commission Engine Optimization Thawte Voucher System (Lead) Thawte/VeriSign Retail Channel Integration.  Thawte/VeriSign Common API (Lead)",
+      "startDate": "2002-02-01",
+      "endDate": "2003-03-01",
+      "summary": "Corporate bulk SMS iTouch Services Provisioning platform POC - Technologies: Java, TIBCO, XML, Sybase, Linux, W2K, ANT, Apache/Tomcat, CVS",
+      "highlights": []
+    },
+    {
+      "company": "Dimension Data",
+      "position": "Developer",
+      "website": "http://www2.dimensiondata.com/",
+      "startDate": "2002-02-01",
+      "endDate": "2002-02-01",
+      "summary": "RET (Remote Encoding of Tags) for BPSA (British Petroleum South Africa) Fuel Master System - Agri24 (www.agri24.co.za) Auction and Inventory Management System - Technologies: Java, XML, Websphere, Oracle 8.1.6, SQL Server 7, Windows NT, Unix (Solaris), Linux, EJB 1.1, Apache, JServ, OptomizeIT, Inprise Application Server",
       "highlights": []
     }
   ],
@@ -150,8 +159,20 @@
   "interests": [],
   "references": [
     {
-      "name": "Erlich Bachman",
-      "reference": "It is my pleasure to recommend Richard, his performance working as a consultant for Main St. Company proved that he will be a valuable addition to any company."
+      "name": "Llewellyn Adamson +2782 789 0555 / llewellyn@adamson.org.za / http://www.linkedin.com/in/llewellynadamson",
+      "reference": "Managing Director, Route Logix"
+    },
+    {
+      "name": "Shaheem Price +2782 570 4301 / sprice@mhg.co.za / https://www.linkedin.com/profile/view?id=26610874",
+      "reference": "SOA Architect, Metropolitan Health Group / MMI Holdings"
+    },
+    {
+      "name": "Muzamil Omar +2783 791 7919 / muzamilo@heliosits.com / https://www.linkedin.com/in/muzamilomar/",
+      "reference": "Senior Manager • Software Development and Architecture"
+    },
+    {
+      "name": "David Phaswana +2783 450 0413 / phaswana@gmail.com / https://www.linkedin.com/profile/view?id=48648765",
+      "reference": "Software Architect, Visa"
     }
   ]
 }
