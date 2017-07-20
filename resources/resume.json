@@ -6,7 +6,7 @@
     "email": "shivan.naidoo@gmail.com",
     "phone": "061 400 9944",
     "website": ["http://www.linkedin.com/in/shivan-naidoo-2952ab2", "https://shivann.github.io/personal/"],
-    "summary": "Fifteen years of commercial software development experience. Specialist in Java server side technologies. Solution Architecture. Consultancy, mentoring and training. Team leading experience. SCRUM/Agile methodologies. Four years international work experience in Mountain View, California, United States",
+    "summary": "Seventeen years of commercial software development experience. Specialist in Java server side technologies. Solution Architecture. Consultancy, mentoring and training. Team leading experience. SCRUM/Agile methodologies. Four years international work experience in Mountain View, California, United States",
     "location": {
       "address": "",
       "postalCode": "",
@@ -28,7 +28,7 @@
     },
     {
       "company": "ViaMedia",
-      "position": "Senior DEveloper",
+      "position": "Senior Developer",
       "website": "http://www.viamedia.co.za/",
       "startDate": "2016-03-01",
       "endDate": "2016-08-01",
@@ -92,6 +92,15 @@
       "endDate": "2002-02-01",
       "summary": "RET (Remote Encoding of Tags) for BPSA (British Petroleum South Africa) Fuel Master System - Agri24 (www.agri24.co.za) Auction and Inventory Management System - Technologies: Java, XML, Websphere, Oracle 8.1.6, SQL Server 7, Windows NT, Unix (Solaris), Linux, EJB 1.1, Apache, JServ, OptomizeIT, Inprise Application Server",
       "highlights": []
+    },
+    {
+      "company": "Exinet",
+      "position": "Developer",
+      "website": "http://www.eduflex.com/",
+      "startDate": "1999-08-01",
+      "endDate": "2001-02-01",
+      "summary": "Distance education software for INTEK college group - Technologies: Java, XML, Apache, Tomcat, Weblogic 4.5.1, Java Web Server, SQL Server 6.5, Informix, Visual Café native (NT) compiler, Unix (Solaris), Linux, SQLJ",
+      "highlights": []
     }
   ],
   "volunteer": [],
@@ -101,7 +110,7 @@
       "area": "Computer Science",
       "studyType": "Bachelor",
       "startDate": "1994",
-      "endDate": "1999",
+      "endDate": "1998",
       "gpa": "",
       "courses": []
     },
@@ -128,21 +137,78 @@
   "publications": [],
   "skills": [
     {
-      "name": "Web Development",
-      "level": "Master",
+      "name": "Development",
+      "level": "",
       "keywords": [
-        "HTML",
-        "CSS",
-        "Javascript"
+        "Java",
+        "Object Oriented Analysis and Design",
+        "Functional Programming",
+        "Ruby",
+        "JavaScript",
+        "Python",
+        "SQL",
+        "XSLT",
+        "XML RPC",
+        "Scala"
       ]
     },
     {
-      "name": "Compression",
-      "level": "Master",
+      "name": "Databases",
+      "level": "",
       "keywords": [
-        "Mpeg",
-        "MP4",
-        "GIF"
+        "SQL Server",
+        "DB2",
+        "Oracle",
+        "MySql"
+      ]
+    },
+    {
+      "name": "Architecture / Frameworks",
+      "level": "",
+      "keywords": [
+        "Spring",
+        "J2EE",
+        "Microservices",
+        "JMS",
+        "JUnit",
+        "SOA",
+        "ORM (Hibernate / MyBatis)",
+        "Webservices",
+        "Apache CXF"
+      ]
+    },
+    {
+      "name": "Application Servers",
+      "level": "",
+      "keywords": [
+        "Apache",
+        "Tomcat",
+        "NGinX",
+        "JBoss / Wildfly",
+        "JMS",
+        "Websphere ND / Liberty",
+        "Weblogic",
+        "MQ Series",
+        "JAMES",
+        "ActiveMQ"
+      ]
+    },
+    {
+      "name": "Infrastructure",
+      "level": "",
+      "keywords": [
+        "Git",
+        "SVN",
+        "CVS",
+        "Nexus",
+        "Linux / Unix",
+        "Hoverfly",
+        "SOAP UI",
+        "Maven",
+        "npm",
+        "Jenkins",
+        "ANT",
+        "PKI"
       ]
     }
   ],
