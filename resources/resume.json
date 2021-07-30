@@ -1,12 +1,12 @@
 {
   "basics": {
     "name": "Shivan Naidoo",
-    "label": "Software Develolper",
+    "label": "Technology Chapter Lead",
     "picture": "",
-    "email": "shivan.naidoo@gmail.com",
+    "email": "shivan.naidoo@protonmail.com",
     "phone": "061 400 9944",
-    "website": ["http://www.linkedin.com/in/shivan-naidoo-2952ab2", "https://shivann.github.io/personal/"],
-    "summary": "Seventeen years of commercial software development experience. Specialist in Java server side technologies. Solution Architecture. Consultancy, mentoring and training. Team leading experience. SCRUM/Agile methodologies. Four years international work experience in Mountain View, California, United States",
+    "website": ["http://www.linkedin.com/in/shivan-naidoo-2952ab2"],
+    "summary": "Twenty years of commercial software development experience. Specialist in Java server side technologies. Solution / Enterprise Architecture. Cross functional team managment, consultancy, mentoring and training. SCRUM/Agile methodologies. Four years international work experience in Mountain View, California, United States",
     "location": {
       "address": "",
       "postalCode": "",
@@ -18,11 +18,20 @@
   },
   "work": [
     {
+      "company": "Momentum Metropolitan Holdings Ltd",
+      "position": "Initiative Leader",
+      "website": "https://www.momentummetropolitan.co.za/en",
+      "startDate": "2018-02-01",
+      "endDate": "Present",
+      "summary": "Legacy to AWS Cloud migration, Solution Architecure, Cross Functional Team Iniative Leader, IT Head Metropolitan GetUp (Data, DevOps, Development, Architecture, QA)",
+      "highlights": []
+    },
+    {
       "company": "Interfront (SARS)",
       "position": "Senior Software Developer",
       "website": "http://www.interfront.co.za/",
       "startDate": "2016-08-01",
-      "endDate": "Present",
+      "endDate": "2018-01-31",
       "summary": "Case Management workflow implementation using Spring 4, Microservices, BPM, Angular",
       "highlights": []
     },
